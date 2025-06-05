@@ -6,6 +6,7 @@
           <v-card elevation="24" class="game-card pa-8" rounded="xl">
               <TheSpinWheel/>
           </v-card>
+          <vue-particles id="tsparticles" :options="confettiOptions" @load="onConfettiLoad" />
         </v-col>
       </v-row>
   
@@ -17,7 +18,6 @@
   
   <script setup>
   import { ref, onMounted, provide } from 'vue'
-  import TheSpinWheel from '@/components/TheSpinWheel.vue'
-  
+  import TheSpinWheel from '@/components/TheSpinWheel.vue'  
   </script>
   

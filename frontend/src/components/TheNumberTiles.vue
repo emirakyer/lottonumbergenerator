@@ -4,7 +4,7 @@
        v-for="(number, index) in computedNumbers"
       :key="index"
     >
-      <v-card class="w-100 pa-4" >
+      <v-card class="fixed-card pa-4" >
         <span v-if="number !== 0" class="display-2">{{ convertToTwoDigit(number)}}</span>
       </v-card>
     </div>
@@ -13,8 +13,6 @@
   
   <script setup>
   import { ref,computed } from 'vue'
-
-  const particles = ref(null)
 
   const convertToTwoDigit = (number) => {
     return number.toLocaleString('en-US', {

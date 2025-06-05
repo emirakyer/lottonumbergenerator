@@ -1,8 +1,8 @@
 <template>
   <div class="d-flex align-center justify-space-between mb-8">
-        <h1 class="d-flex align-center text-h3 ga-5 font-weight-black gradient-text">
+        <h1 class="d-flex align-center text-h2 ga-5 font-weight-black text-orange-accent-3">
           Lotto Number Generator
-          <v-icon size="40" class="ml-4 spin-icon">mdi-slot-machine</v-icon>
+          <v-icon size="70" class="ml-4 spin-icon grad">mdi-slot-machine</v-icon>
         </h1>
       </div>
       <div class="d-flex align-center justify-space-between">
