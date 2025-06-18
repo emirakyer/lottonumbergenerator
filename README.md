@@ -109,8 +109,14 @@ The frontend will typically be available at [http://localhost:5173/](http://loca
 ---
 
 
+## 📸 Application Screenshots
 
+![Screenshot 1](https://github.com/emirakyer/lottonumbergenerator/blob/main/projectMedia/1.jpeg?raw=true)
+![Screenshot 2](https://github.com/emirakyer/lottonumbergenerator/blob/main/projectMedia/4.jpeg?raw=true)
+![Screenshot 3](https://github.com/emirakyer/lottonumbergenerator/blob/main/projectMedia/2.jpeg?raw=true)
+![Screenshot 4](https://github.com/emirakyer/lottonumbergenerator/blob/main/projectMedia/3.jpeg?raw=true)
 
+## 🎥 Demo Video
 
-
+[Click to Watch the Demo Video](https://github.com/emirakyer/lottonumbergenerator/blob/main/projectMedia/5.mp4)
 
